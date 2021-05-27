@@ -1,0 +1,36 @@
+.sofia{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	background: pink;
+	width: 1350px;
+	height: 635px;
+}
+.ri{
+	font-size: 50px;
+	color: #D7BDE2;
+	position: absolute;
+	top: 30px;
+	left: 550px;
+}
+.hijo1{
+	width: 200px;
+	height: 200px;
+	background: #D7BDE2;
+	margin-top: 100px;
+	margin-left: 100px;
+	display: inline-flex;
+}
+.hijo2{
+	width: 200px;
+	height: 200px;
+	background: #D7BDE2;
+	margin-top: 100px;
+	margin-left: 100px;
+	display: inline-flex;
+}
+.h2{
+	font-size: 50px;
+	color: pink;
+	top: 50px;
+}
